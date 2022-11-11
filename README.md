@@ -1,14 +1,11 @@
 # dataset-visualizer
 
-This template should help get you started developing with Vue 3 in Vite.
+Little project built with Vue 3 and TailwindCSS to display a list of categories and collections from an API.
 
-## Recommended IDE Setup
+Demo on [Github Pages](https://loicmonard.github.io/dataset-visualizer/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[<img src="https://i.imgur.com/bBb6zHl.png" alt="Banner addressing technologies used as a software developper - VueJs, Svelte, Javascript, HTML, CSS">](https://loicmonard.github.io/dataset-visualizer/)
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
