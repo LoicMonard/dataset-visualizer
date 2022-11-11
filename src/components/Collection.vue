@@ -34,6 +34,7 @@ export default {
             target="_blank"
             :href="collection._source?.data_url || collection._source?.info_url"
             class="text-xs text-blue-400"
+            :class="{ 'text-gray-400 pointer-events-none line-through	': !collection._source?.data_url && !collection._source?.info_url }"
           >
             LINK
           </a>
